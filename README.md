@@ -7,7 +7,7 @@ Realization of bonuses such as the management of several file descriptor, the ma
 
 - Clone Repository
 ```bash
-git clone https://vvaucoul/Get_Next_Line && cd Get_Next_Line
+git clone https://github.com/vvaucoul/Get_Next_Line && cd Get_Next_Line
 ```
 
 - Compilation
